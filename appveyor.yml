@@ -3,6 +3,7 @@ branches:
   only:
   - master
   - cppgui
+  - upwork
 image: WMF 5
 init:
 - ps: 
